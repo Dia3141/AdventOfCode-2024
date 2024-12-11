@@ -1,7 +1,5 @@
 #include <fstream>
 #include <vector>
-#include <queue>
-#include <cstring>
 using namespace std;
 ifstream cin("f.in");
 ofstream cout("f.out");
